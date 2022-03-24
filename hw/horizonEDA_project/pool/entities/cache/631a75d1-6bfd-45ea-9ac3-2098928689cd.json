@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "2f6a7a7e-720f-402a-9ebb-c78b975cab45": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5743aa02-acac-4a71-94c7-055522ba670e"
+        }
+    },
+    "manufacturer": "",
+    "name": "1Nxxx SMD",
+    "prefix": "D",
+    "tags": [],
+    "type": "entity",
+    "uuid": "631a75d1-6bfd-45ea-9ac3-2098928689cd"
+}

@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "1N5819 SMD"
+    ],
+    "datasheet": [
+        false,
+        "https://www.gme.cz/data/attachments/dsh.917-005.1.pdf"
+    ],
+    "description": [
+        false,
+        "1A Shottky Ufm=0.6V Urrm=40V"
+    ],
+    "entity": "631a75d1-6bfd-45ea-9ac3-2098928689cd",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "dc3eb70a-bfc9-42cc-8f8c-4e62d791487b",
+    "pad_map": {
+        "76483b9e-93ab-45c9-bd80-943cfc4a6dfa": {
+            "gate": "2f6a7a7e-720f-402a-9ebb-c78b975cab45",
+            "pin": "f9981fd8-da48-4c88-add5-fed42b86564c"
+        },
+        "e7e0c2e2-e4ef-4c02-8e2d-0bf6c7856ac6": {
+            "gate": "2f6a7a7e-720f-402a-9ebb-c78b975cab45",
+            "pin": "613861e3-efb4-49e5-817d-6695a8dc238e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "shottky",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "518dcb21-4449-46e6-b949-3513df556e0f",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "S8550"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "c762ae87-516a-4966-b191-800ea28ad243",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "d31f7d7b-9c4b-42e9-a673-e53601b8f321",
+    "pad_map": {
+        "855a9eb6-b1e0-406e-9c1e-b9a7e436ac4d": {
+            "gate": "8efa9ef9-be1d-47c2-904b-d07de8525764",
+            "pin": "159764e9-2be0-40bf-96c8-44c483fa82cf"
+        },
+        "8be1f6b9-082e-454c-b501-c5e4471c9fa7": {
+            "gate": "8efa9ef9-be1d-47c2-904b-d07de8525764",
+            "pin": "670fdc2f-14c7-45e2-b721-a8e45a365576"
+        },
+        "c641c577-6acd-4a55-802f-90e50dd8c8cc": {
+            "gate": "8efa9ef9-be1d-47c2-904b-d07de8525764",
+            "pin": "093d5f16-d716-47e4-b42c-c289b62484b8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "pnp",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "6b62e2a5-6ebe-46d3-b3f6-6085846616f9",
+    "value": [
+        false,
+        ""
+    ]
+}

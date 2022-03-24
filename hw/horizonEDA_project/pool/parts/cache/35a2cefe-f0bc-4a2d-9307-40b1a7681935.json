@@ -1,0 +1,165 @@
+{
+    "MPN": [
+        false,
+        "ATmega8A"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "a8ee7728-06d2-420f-8fba-a9ede3375e72",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ATMEL"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "c37f6456-9796-4e0e-acb8-9d1c59d2f562",
+    "pad_map": {
+        "04861e71-4f02-44eb-abfd-9ba630fe150c": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "b85db665-885b-457d-aae4-8a33450bb097"
+        },
+        "1878e9c4-ad52-4e65-9aaf-42dd11d1d9b9": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "36bcd4ee-17d5-422e-8afe-6d23bc8280c4"
+        },
+        "219e778e-3a74-4779-91c2-3511bc71284d": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "124b3b29-93c1-46e1-84ca-68e22cd2d43e"
+        },
+        "3d6787c8-142e-43d2-accd-4705af46c47b": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "af197e28-3598-4934-bc1e-13efa8c09063"
+        },
+        "3d770874-c8f6-4218-b3fd-ef9a1f797f1f": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "bbbff942-f387-4dbe-8b4a-19c2bbdd80e9"
+        },
+        "3ef47048-2484-4100-afb2-29bd4b6a1cb1": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "d757ab9e-c3af-4d04-8908-41798da9f899"
+        },
+        "48f06e06-4815-4c4e-9e6d-ec14c8839154": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "88ac3892-b624-4807-af1a-8e42e0d2cb23"
+        },
+        "491fe73f-c282-401f-91d0-b31b24467cbf": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "79543451-9fca-46ff-9504-4f9a2306edeb"
+        },
+        "59af7a9f-d185-4d61-8e9b-0ae38c0cddbc": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "12942000-5b60-4c67-8aae-399c401fa73e"
+        },
+        "66f80fa6-b46e-499a-925f-f3a207825d7f": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "b99e6dfb-99a7-46de-a5e3-d1e5895b5feb"
+        },
+        "6972a763-c632-4070-ad5f-8b06b87eb085": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "f18e9c53-67a4-4a27-bc58-ee1df67d9105"
+        },
+        "7018f0f2-64a4-4982-bc56-f4473eb444d8": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "2d661208-ce2c-4d62-8e52-f03be26316b9"
+        },
+        "7366fe70-3b8e-4d3e-9cf6-52a7ae364f4e": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "1aac9982-2751-448b-a122-1a70bb2b7c44"
+        },
+        "82854467-3e80-41f2-aa9e-8c7ccb1e98de": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "1fb4b9dc-870d-4132-bff0-6ca08e8c3034"
+        },
+        "854050a4-2996-4161-9d24-a9c409018f29": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "e8b4c76a-6ea3-43a1-ad82-a4af381bd274"
+        },
+        "87f6c769-5994-4526-9e52-eb3399c6178b": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "d1887bc9-a9f1-42b8-90d7-277e2ce202b6"
+        },
+        "8af9dacc-e583-41cc-9a0a-40b8de860d0d": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "124b3b29-93c1-46e1-84ca-68e22cd2d43e"
+        },
+        "953ab6e3-59f3-4886-aa0c-44e524ee08b3": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "7b9d607e-9823-434f-8ea3-eb40ef02ec85"
+        },
+        "99e3c909-0593-4244-a2cb-ef11d7cd97e9": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "5c58bea6-2c9a-435a-a47d-891b30fed860"
+        },
+        "9b8c8b7f-c119-456f-b32b-3e3949d9e86d": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "b782802b-9fd8-4f96-96f8-3b9b94f86f17"
+        },
+        "a44d95d5-0f43-4381-b4f0-57f7133ad1f5": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "9dfe3592-0eaf-48ad-a864-a1568583cbfe"
+        },
+        "aa246340-0b67-41da-bef1-366f2c2d18e8": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "896c691e-6eab-45ca-a86a-406ce719fd0e"
+        },
+        "aad9df7f-7167-49bb-b2c3-2d13dd33cf6b": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "f176a021-1a85-44d4-ad74-5e2a0a2b119a"
+        },
+        "abc2650f-a98d-44d4-8668-f087cd0f9996": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "896c691e-6eab-45ca-a86a-406ce719fd0e"
+        },
+        "b5eb37f0-63bb-4873-84be-9c24ef05341c": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "836b0ca2-e3c3-4868-aa61-3cbb276f2e45"
+        },
+        "b763c394-854e-43aa-bd19-f38ddd3f6819": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "a1a7306a-935d-4471-82d5-b2538b7d16ca"
+        },
+        "b912be67-bdcb-4aaf-abaa-847f607ec5e4": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "af79f734-2a1a-48e7-942d-b398cf50ea41"
+        },
+        "bce28c10-ae1f-4ee6-b242-eb036d3a56b0": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "e4421331-ae4b-4ea9-98d0-3ddf97e5997a"
+        },
+        "bfcfec82-e9f2-4102-b5ad-24ed1f073ccd": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "896c691e-6eab-45ca-a86a-406ce719fd0e"
+        },
+        "e834c930-abd7-4ce4-8b6a-33235fd0fda7": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "8d58f34d-c67c-4cb5-8002-a2c51bebd0b4"
+        },
+        "f829401e-ac80-44d9-b50e-e5985637cc32": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "6963a37e-27f2-4d0b-81d5-888637e90e13"
+        },
+        "ff2add4d-16fe-4621-892f-33ab408fe769": {
+            "gate": "c9b894d5-1b65-4491-b779-7dd45adac4e1",
+            "pin": "b0ffe471-07dd-4666-af35-b8a0843d4412"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "atmega",
+        "mcu",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "35a2cefe-f0bc-4a2d-9307-40b1a7681935",
+    "value": [
+        false,
+        ""
+    ]
+}

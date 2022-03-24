@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "8efa9ef9-be1d-47c2-904b-d07de8525764": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "55068182-ff16-47fa-9732-786b1e3ecc86"
+        }
+    },
+    "manufacturer": "",
+    "name": "PNP transistor",
+    "prefix": "T",
+    "tags": [],
+    "type": "entity",
+    "uuid": "c762ae87-516a-4966-b191-800ea28ad243"
+}

@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "59ab8a2c-3162-4928-8bec-db16714ea7ec": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "694c08f1-fcfb-45bd-a216-a9e0ca24c4de"
+        }
+    },
+    "manufacturer": "AVIA Semiconductor",
+    "name": "HX711",
+    "prefix": "IC",
+    "tags": [
+        "adc",
+        "scale",
+        "tensometter"
+    ],
+    "type": "entity",
+    "uuid": "b17e6a7b-4c53-4414-ba65-ed661f907583"
+}

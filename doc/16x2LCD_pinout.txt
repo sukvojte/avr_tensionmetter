@@ -1,0 +1,10 @@
+HD44780U
+
+1 o - CH-GND                     D0 - o 9 
+2 o - GND                       GND - o 10
+3 o - RS                         D1 - o 11
+4 o - RW                        GND - o 12
+5 o - EN                         D2 - o 13
+6 o - VCC                       GND - o 14
+7 o - BL+                        D3 - o 15
+8 o - BL-                       VCC - o 16

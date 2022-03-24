@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "Jumper4x"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Just jumper"
+    ],
+    "entity": "77321452-1dd4-4197-871e-32666990ff88",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "9da6e4c4-a732-4850-8c0e-8e12b7980f58",
+    "pad_map": {
+        "696e5b7e-2886-46c0-b400-509f4495fef7": {
+            "gate": "ae86b387-b368-4804-96c9-2d221f35e824",
+            "pin": "17b4188f-ebf4-4785-90c9-6eac9e09cc3a"
+        },
+        "e5be27e6-655b-450f-bc4f-16cd5d294879": {
+            "gate": "ae86b387-b368-4804-96c9-2d221f35e824",
+            "pin": "42443d27-b024-4355-8f16-649e47520acc"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "jumper"
+    ],
+    "type": "part",
+    "uuid": "14fd70e8-9be0-4911-b89c-57dc7b85f158",
+    "value": [
+        false,
+        ""
+    ]
+}

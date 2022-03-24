@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "PNP transistor",
+    "pins": {
+        "670fdc2f-14c7-45e2-b721-a8e45a365576": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "C",
+            "swap_group": 0
+        },
+        "159764e9-2be0-40bf-96c8-44c483fa82cf": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "093d5f16-d716-47e4-b42c-c289b62484b8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "E",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "55068182-ff16-47fa-9732-786b1e3ecc86"
+}

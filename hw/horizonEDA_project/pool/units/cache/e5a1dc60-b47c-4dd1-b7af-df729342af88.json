@@ -1,0 +1,80 @@
+{
+    "manufacturer": "",
+    "name": "unk_16x2_lcd",
+    "pins": {
+        "22d1ca12-4f83-4282-8ce6-de430507db76": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D3",
+            "swap_group": 0
+        },
+        "5bc397b7-75f2-4878-be25-d2495ffaf772": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "5ea6f4da-7196-48e1-a53c-03cee5b01bcd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D0",
+            "swap_group": 0
+        },
+        "7413c28b-6183-4ff5-89d8-8f9cc8bc5e4d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RS",
+            "swap_group": 0
+        },
+        "74e8364e-04df-4ce0-b613-1a630650e79a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D2",
+            "swap_group": 0
+        },
+        "7aee1b83-e6ce-4ff6-91d2-c12ad76848e2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "7fd20f61-4332-4937-91ba-6a90a742dc0c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "BL+",
+            "swap_group": 0
+        },
+        "96daef51-36a0-4d1b-90f0-bfcf0bed1430": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "BL-",
+            "swap_group": 0
+        },
+        "acada72f-f25d-4c1d-a417-de5d311cd75f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RW",
+            "swap_group": 0
+        },
+        "b3afc317-de8f-480a-b61e-609486b5fdaf": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "c40d54c5-24c0-4b1d-bca8-5777573b41cf": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D1",
+            "swap_group": 0
+        },
+        "d1fac183-dee7-4f37-bc43-d2fd03c637b5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "CH-GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e5a1dc60-b47c-4dd1-b7af-df729342af88"
+}

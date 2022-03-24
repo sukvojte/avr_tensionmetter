@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "a4fa97fe-d422-4338-ac89-8bef94ac097f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e5a1dc60-b47c-4dd1-b7af-df729342af88"
+        }
+    },
+    "manufacturer": "",
+    "name": "unk_16x2_lcd",
+    "prefix": "IO",
+    "tags": [
+        "16x2",
+        "lcd"
+    ],
+    "type": "entity",
+    "uuid": "b266f1d5-0e15-492a-a0ac-158f7a433681"
+}

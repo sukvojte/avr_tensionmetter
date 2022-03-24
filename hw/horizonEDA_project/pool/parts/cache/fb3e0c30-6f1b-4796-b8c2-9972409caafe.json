@@ -1,0 +1,101 @@
+{
+    "MPN": [
+        false,
+        "HX711"
+    ],
+    "datasheet": [
+        false,
+        "https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf"
+    ],
+    "description": [
+        false,
+        "24-Bit Analog-to-Digital Converter (ADC) for Weigh Scales"
+    ],
+    "entity": "b17e6a7b-4c53-4414-ba65-ed661f907583",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "AVIA Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "3e663267-9789-4436-8a4e-7acc99968b4e",
+    "pad_map": {
+        "0e67527a-2219-48c9-9252-bf279bbbf7cb": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "7f359d1b-28fe-4ec6-94b5-d8d0031e2b75"
+        },
+        "194f73ab-f025-4306-974c-878f2b944dd3": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "83faf196-2218-4a0a-8bb8-a56723821ee2"
+        },
+        "1bc0f351-380c-4c1f-9e8a-af08919c030c": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "7c1b1f71-69c4-4730-add9-23ce574e6344"
+        },
+        "1d7c2527-a6b0-4752-ab30-dbf6b774eb8b": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "2f8f7afb-eaaa-49be-b0b5-789476308d68"
+        },
+        "4dd3e114-f0cd-43e6-b58c-f576be1a1770": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "dee22a60-a756-414c-b9d5-bf4495fb403e"
+        },
+        "5e875a37-6d26-4b46-87bd-a9ac99dfaed1": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "92fe993d-f0df-4d0f-8c91-fee8b00d6e79"
+        },
+        "62a5bb31-af8c-4d00-b847-a4e46b61ed1f": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "c70057bc-ed66-4971-ae1d-e2ab0b961a13"
+        },
+        "64322e5a-6e46-413f-8ac6-62682d6de09a": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "74f7381f-5f1d-4711-8ddd-9d3358a10cc7"
+        },
+        "661f08ee-07fd-4463-b632-708baf45be23": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "6443fa44-72c3-4d96-bf73-84aaf7d2a4f1"
+        },
+        "66d927df-b0c9-4919-b80d-137d3318b2fb": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "90fe9081-c91a-4b03-9e5f-7b45273b0b4b"
+        },
+        "8a40ce2a-8b0e-46d7-a6e9-f8a956478d0f": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "e85f1020-f60a-483a-ab5f-ea8f4bc3a2de"
+        },
+        "96399e0b-9a1c-441a-8c2a-a6293d11d1f6": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "d3a5fcff-5bd8-44f2-9ac0-299e54fd09d9"
+        },
+        "9902fd40-e3a7-4ca0-b370-0cc6f67c37a2": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "6f537524-dbf1-4d8b-94cb-cbd6c6e9ec2d"
+        },
+        "b9e92742-7686-4412-92da-43b55ff890f8": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "ee9248e9-4908-4f00-b175-dd6f5f7c1954"
+        },
+        "ddc17fff-db02-4c2d-aab4-42658c8785b0": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "a8f3c659-7798-43a0-abf4-1d68eed624c1"
+        },
+        "e62274de-caf7-4396-8b95-b8f5dda592ef": {
+            "gate": "59ab8a2c-3162-4928-8bec-db16714ea7ec",
+            "pin": "7aeb23a4-38ab-4b91-84ce-0cdd4ed00f84"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "adc",
+        "smd",
+        "tensometter"
+    ],
+    "type": "part",
+    "uuid": "fb3e0c30-6f1b-4796-b8c2-9972409caafe",
+    "value": [
+        false,
+        ""
+    ]
+}

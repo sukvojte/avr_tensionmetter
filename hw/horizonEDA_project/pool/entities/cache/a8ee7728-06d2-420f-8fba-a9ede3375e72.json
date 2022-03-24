@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "c9b894d5-1b65-4491-b779-7dd45adac4e1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "25c40deb-ec84-49b0-a5e7-936723529cb0"
+        }
+    },
+    "manufacturer": "ATMEL",
+    "name": "ATmega8",
+    "prefix": "IC",
+    "tags": [
+        "8bit",
+        "atmega",
+        "atmel",
+        "mcu"
+    ],
+    "type": "entity",
+    "uuid": "a8ee7728-06d2-420f-8fba-a9ede3375e72"
+}

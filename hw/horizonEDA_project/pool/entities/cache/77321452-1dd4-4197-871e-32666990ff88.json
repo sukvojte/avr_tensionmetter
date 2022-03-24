@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "ae86b387-b368-4804-96c9-2d221f35e824": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d087ad20-8422-47e1-99c0-f24b6b37cbfd"
+        }
+    },
+    "manufacturer": "",
+    "name": "Jumper",
+    "prefix": "JP",
+    "tags": [],
+    "type": "entity",
+    "uuid": "77321452-1dd4-4197-871e-32666990ff88"
+}

@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Generic diode",
+    "pins": {
+        "613861e3-efb4-49e5-817d-6695a8dc238e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "C",
+            "swap_group": 0
+        },
+        "f9981fd8-da48-4c88-add5-fed42b86564c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5743aa02-acac-4a71-94c7-055522ba670e"
+}

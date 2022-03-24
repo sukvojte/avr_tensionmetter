@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "jumper",
+    "pins": {
+        "17b4188f-ebf4-4785-90c9-6eac9e09cc3a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "42443d27-b024-4355-8f16-649e47520acc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d087ad20-8422-47e1-99c0-f24b6b37cbfd"
+}
